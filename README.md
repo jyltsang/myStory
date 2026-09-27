@@ -19,7 +19,7 @@ I build systems that solve real problems. My career didn't start in a computer s
 
 ---
 
-### 🛠️ What I'm Building Now (The Security Pivot)
+### What I'm Building Now
 
 * **Cloud Infrastructure & Security:** Designing AWS environments, implementing GuardDuty, and automating deployments using Infrastructure as Code.
 * **Network & Threat Analysis:** Building segmented home lab environments, deploying Wazuh SIEM for continuous endpoint telemetry, and conducting packet inspection using Wireshark to analyse TCP/TLS traffic.
